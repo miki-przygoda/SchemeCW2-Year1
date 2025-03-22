@@ -1,4 +1,4 @@
-# Family Tree Analysis in Scheme
+# 🧬 Family Tree Management System
 
 This project implements a family tree data structure and various analysis functions using Scheme (Racket). The program provides a text-based interface to explore and analyze family relationships across maternal and paternal branches.
 
@@ -51,10 +51,38 @@ To run the program:
 2. Run `main.rkt` using the Racket interpreter
 3. Navigate through the menu options to explore different functions
 
-## Implementation Details
+## 🎯 What This Project Covers
 
 The program uses a functional programming approach with Scheme, incorporating:
 - List processing techniques
 - Higher-order functions
 - Recursive algorithms
 - Data transformation functions
+
+---
+
+## 🛠️ Technologies
+
+- 🌀 Racket (Scheme)
+- 📜 Recursive algorithms
+- 🧮 Custom data models for tree structures
+- 🧩 CLI parsing & branching logic
+
+---
+
+## ✍️ Author & Contributions
+
+This was a two-partner coursework project.
+
+- **Mikolaj Mikuliszyn** — implemented all of Part B (filtering queries, birthday logic) and co-developed Part C  
+- Coursework submitted as part of *Functional Programming & Logic* module (Year 1)
+
+📍 University of Greenwich  
+🔗 [GitHub Profile](https://github.com/miki-przygoda)
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is shared for **educational and portfolio purposes**.  
+All source code is original unless otherwise noted. Do not use this as a reference during active academic assessments.
